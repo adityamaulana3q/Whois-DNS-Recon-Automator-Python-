@@ -1,0 +1,6 @@
+domain,registrar,creation_date,expiration_date,name_servers,A_record,AAAA_record,MX_record
+google.com,"MarkMonitor, Inc.",1997-09-15 04:00:00,2028-09-14 04:00:00,NS1.GOOGLE.COM;NS2.GOOGLE.COM;NS3.GOOGLE.COM;NS4.GOOGLE.COM,216.239.38.120,2001:4860:4802:32::78,N/A
+yahoo.com,"MarkMonitor, Inc.",1995-01-18 05:00:00,2026-01-19 05:00:00,NS1.YAHOO.COM;NS2.YAHOO.COM;NS3.YAHOO.COM;NS4.YAHOO.COM;NS5.YAHOO.COM,74.6.143.26;98.137.11.163;74.6.231.21;74.6.143.25;98.137.11.164;74.6.231.20,2001:4998:44:3507::8000;2001:4998:44:3507::8001;2001:4998:24:120d::1:0;2001:4998:124:1507::f001;2001:4998:124:1507::f000;2001:4998:24:120d::1:1,1 mta5.am0.yahoodns.net.;1 mta6.am0.yahoodns.net.;1 mta7.am0.yahoodns.net.
+wikipedia.org,MarkMonitor Inc.,2001-01-13 00:12:14,2026-01-13 00:12:14,ns0.wikimedia.org;ns1.wikimedia.org;ns2.wikimedia.org,103.102.166.224,2001:df2:e500:ed1a::1,10 mx-in1001.wikimedia.org.;10 mx-in2001.wikimedia.org.
+openai.com,"MarkMonitor, Inc.",2007-01-19 19:28:24,2029-01-19 19:28:24,NS1-02.AZURE-DNS.COM;NS2-02.AZURE-DNS.NET;NS3-02.AZURE-DNS.ORG;NS4-02.AZURE-DNS.INFO,172.64.154.211;104.18.33.45,N/A,1 aspmx.l.google.com.;5 alt1.aspmx.l.google.com.;10 alt3.aspmx.l.google.com.;5 alt2.aspmx.l.google.com.;10 alt4.aspmx.l.google.com.
+mit.edu,N/A,1985-05-23 00:00:00,2026-07-31 00:00:00,N/A,104.71.149.245,2600:1413:1:988::255e,100 mit-edu.mail.protection.outlook.com.
