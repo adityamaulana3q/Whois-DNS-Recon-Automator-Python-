@@ -23,3 +23,13 @@ Script Python sederhana untuk melakukan **WHOIS & DNS reconnaissance otomatis** 
    ```bash
    git clone https://github.com/USERNAME/whois-dns-recon.git
    cd whois-dns-recon
+   
+## 🖼️ Screenshot Hasil Uji
+
+Berikut adalah contoh tampilan hasil yang disimpan di `result.csv`:
+
+![Hasil Output](gambarhasil.png)
+
+Berikut contoh hasil tampilan terminal / script berjalan:
+
+![Hasil WHOIS](gambarproses.png)
